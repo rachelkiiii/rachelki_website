@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "personal-website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here you can demonstrate your projects.\n\nsample(1:100)\n\n  [1]   5  52  99  97  66  37  15  71  29  24  25  54  14  92  86  93  70  36\n [19]  11  98  44  31  89  23  56  84  73  12  94  22  91  18  72  40  82  68\n [37]  39  32  69 100  35  57  27  77  30  53   7   3  13  59  50  26  47  67\n [55]  64  38  88  20  58  78  79  63  95  42  83  96   8  80  43  46  45  34\n [73]  55  81  51  21  85  17  16  48   1  60  61  65  75  49  62   9  74  41\n [91]  76  33  10   2  87  28  90   6   4  19"
+  }
+]

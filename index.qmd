@@ -1,11 +1,23 @@
 ---
-title: "personal-website"
+toc: false
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/rachel-ki/
+    - icon: github
+      text: Github
+      url: https://www.github.com/rachelkiiii
+    - icon: inbox-fill
+      text: Email
+      url:  "mailto::rachelki@ucla.edu"
+image: picture.png
 ---
 
-This is a Quarto website.
+## About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello, my name is Rachel Ki, and I am current 4th year undergraduate for Statistics and Data Science at UCLA.
+I am interested in data analysis especially in the biotechnology industry. Currently working as a Bioinformatics researcher at Park Lab, where I am analyzing gene set enrichment analysis (GSEA) algorithms.
 
-```{r}
-1 + 1
-```
+Attached is my current [CV](DOCS/Resume_Rachel_Ki.pdf "CV")

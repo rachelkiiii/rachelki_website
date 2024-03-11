@@ -2,9 +2,10 @@
 title: "Projects"
 ---
 
-Here you can demonstrate your projects.
+## Prosthetic Arm Control Using Brain Computer Interface
 
-```{r}
-sample(1:100)
-```
+Seamlessly blended Python machine learning model using advanced neural networks and the application of the OpenBCI headset. Orchestrated encompassing systematic data collection, signal processing, and robotics integration. [Github](https://github.com/rachelkiiii/crux_project "Github")
 
+## Publications
+
+Determination of Metabolic Fluxes by Deep Learning of Isotope Labeling Patterns (coauthor)

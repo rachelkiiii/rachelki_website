@@ -8,10 +8,13 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: Work Experience
       - href: projects.qmd
         text: Projects
-
+      - href: personal.qmd
+        text: Personal Life
+  page-footer:
+    right: "&copy; 2024, Rachel Jihyun Ki"
 format:
   html:
     theme: cosmo

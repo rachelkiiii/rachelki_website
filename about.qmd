@@ -1,9 +1,32 @@
 ---
-title: "About"
+title: "Work Experience"
 ---
 
-About this site
+## Bioinformatics Researcher 
+**UCLA Bioengineering Park Lab, CA, USA Janurary 2023 - Present**
 
-```{r}
-1 + 1
-```
+- Developed a Metabolic Flux website (www.metabolicflux.org) for gene set enrichment analysis(GSEA) using Python Flask, HTML/CSS, and API integration.
+
+- Utilized statistical methods to interpret gene expression data and identify enriched biological pathways.
+- Collaborated with bioengineering professors and graduate students, attending weekly meetings to discuss progress
+and present findings.
+
+## Data Governance Intern
+**UCLA Health, CA, USA June 2023 - September 2023**
+
+- Utilized SQL and Tableau in management and visualization of tables from CLARITY database in DevOps.
+- Documented data governance processes, policies, and metadata in Collibra.
+- Delivered data-driven solutions, governance, and business intelligence to senior leadership and executive management.
+
+## Biology Researcher
+**UCSB Simpson Lab, CA, USA Janurary 2022 - August 2022**
+
+- Utilized R and python to sort and govern data from electron microscopy image datasets for the Drosophila brain and ventral nerve cord.
+- Identified neural circuits that control the sequence of movements that constitute grooming behavior.
+
+## Network Operations Intern
+**UCSB Data Center, CA, USA September 2021 - Janurary 2022**
+
+- Configured software to optimize rack power distribution across academic, administrative, and research communities, ensuring efficient resource allocation.
+- Conducted monthly audits on data center customer equipment, identifying potential issues, and proactively addressing them.
+- Developed a web software to visualize data center rack power infrastructure.
